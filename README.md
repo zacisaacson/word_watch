@@ -35,7 +35,7 @@ And navigate to:
 http://localhost:8080
 ```
 
-  * *Note* make sure to keep both `npm run build` and `npm start` running during your development.
+  * *Note* make sure to keep `npm start` running during your development.
 
 To run the tests:
 
