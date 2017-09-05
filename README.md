@@ -17,13 +17,13 @@ Then, get those dependencies:
 npm install
 ```
 
-Open a dedicated terminal session to watch for changes in your JS:
+If you run into issues where JavaScript you wrote isn't coming through the browser, try:
 
 ```shell
 npm run build
 ```
 
-Open your app on a localhost server:
+Open your app on a webpack server:
 
 ```shell
 npm start
