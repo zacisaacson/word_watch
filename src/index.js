@@ -1,4 +1,5 @@
-document.addEventListener("DOMContentLoaded", () => {
+import $ from 'jquery'
+
+$(document).ready(() => {
   // have fun!
 })
-
