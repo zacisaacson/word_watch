@@ -21,7 +21,9 @@ You should commit as you normally would - when a new piece of functionality is b
 
 ## Submission
 
-We will come back to share our 🔥awesome🔥 apps and talk through challenges at 11:30. By that time, please have your project deployed to GitHub pages. Also, if you did run the API locally and were hitting that, please change the URL to the Heroku endpoints so it's easier for instructors to check real quick. Please submit with [this](https://goo.gl/forms/5JWcfa7xK3Tpll7I3) Google Form.
+We will come back to share our 🔥awesome🔥 apps and talk through challenges at 11:30. By that time, please have your project deployed to GitHub pages. Also, if you did run the API locally and were hitting that, please change the URL to the Heroku endpoints so it's easier for instructors to check real quick. 
+
+Please submit with [this](https://goo.gl/forms/5JWcfa7xK3Tpll7I3) Google Form.
 
 
 ## Environment Setup
