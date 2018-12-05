@@ -17,12 +17,13 @@ If you finish these two user stories, consider:
 
 ## Workflow
 
+Fork or clone this so you have your own Word Watch Repo. 
+
 You should commit as you normally would - when a new piece of functionality is built out and everything is clean and working. This should be an independent challenge, but we don't want you banging your head against the wall all morning. If you are stuck on setup or something weird, don't spend too long before you reach out to an instructor - we can get you going in the right direction. The point of this is not to frustrate you!
 
 ## Submission
 
 Please tag Amy and Cory in your final PR by 5pm to show us your 🔥awesome🔥 apps. We will comment with feedback! By that time, please have your project deployed to GitHub pages. Also, if you did run the API locally and were hitting that, please change the URL to the Heroku endpoints so it's easier for instructors to check real quick. 
-
 
 ## Environment Setup
 
