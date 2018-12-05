@@ -2,7 +2,7 @@
 
 > Seeing is believing...
 
-This morning, your task is to bring Word Watch👀 to life! Find the API docs [here](https://github.com/turingschool-examples/word-watch-api). Essentially, you have two user stories:
+Today, your task is to bring Word Watch👀 to life! Find the API docs [here](https://github.com/turingschool-examples/word-watch-api). Essentially, you have two user stories:
 
 1. When the user comes to the page, they should see the top word and it's count on the right side of the page.
 2. When the user types a piece of text in text field and clicks the break down button, that word should be added to the master list of words. The piece of text could be a single word, or an entire essay. Make sure to read the API documentation carefully so you understand what needs to happen on the front end.
